@@ -1,17 +1,22 @@
-## Hi, I'm Charley 👋
+# Hi, I'm Charley 👋
 
+I'm a **Junior Software Developer**.
 
-<!--
-**charleyrobertson/charleyrobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack
+- **Languages:** C#, JavaScript, TypeScript
+- **Frameworks:** WPF, Angular
+- **Testing:** NUnit, Selenium
 
-Here are some ideas to get you started:
+### 🚀 Highlights
+- Gaining hands-on experience with **WPF desktop development**.
+- Currently learning about **Angular front-end developement**. 
+ 
+### 📂 Projects
+Future projects will be showcased here—stay tuned!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/charley-melom)
+
+---
+
+Thanks for stopping by!
