@@ -1,11 +1,11 @@
 # Hi, I'm Charley 👋
 
-I'm a **Junior Software Developer**.
+I'm a **Software Developer**.
 
 ### 💻 Tech Stack
 - **Languages:** C#, JavaScript, TypeScript
 - **Frameworks:** WPF, Angular
-- **Testing:** NUnit, Selenium
+- **Testing:** NUnit, Selenium, NSubstitute
 
 ### 🚀 Highlights
 - Gaining hands-on experience with **WPF desktop development**.
